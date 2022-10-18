@@ -1,0 +1,3 @@
+﻿  TreeV1.cpp
+C:\Users\PC TGDD\Desktop\Workspace\GiaiThuat\Binary Tree\Binary Tree\TreeV1.cpp(257,3): error C2181: illegal else without matching if
+C:\Users\PC TGDD\Desktop\Workspace\GiaiThuat\Binary Tree\Binary Tree\TreeV1.cpp(250,25): warning C4390: ';': empty controlled statement found; is this the intent?
